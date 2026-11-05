@@ -2,7 +2,8 @@
 
 Stop building feature factories. Turn reactive feature requests into defensible product bets.
 
-You can get the full skill pack for the price of a coffee directly on the listing page.
+Explore and buy the full skill pack for the price of a coffee:
+https://www.agensi.io/skills/skill-for-product-management-strategic-execution
 
 ## The Problem
 
@@ -38,7 +39,8 @@ Call it in chat using @bidya-pm or slash commands like /decode-demand.
 
 ## Pricing
 
-Get the full skill pack for the price of a coffee directly on this listing.
+Explore and get the full skill on Agensi:
+https://www.agensi.io/skills/skill-for-product-management-strategic-execution
 
 ## License
 
