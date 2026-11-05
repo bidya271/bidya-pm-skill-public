@@ -1,9 +1,5 @@
 # Bidya PM — Strategic Product Management Intelligence System
 
-[![Antigravity Skill](https://img.shields.io/badge/Antigravity-Skill-blue.svg)](https://buymeacoffee.com/bidya)
-[![Claude / Codex Compatible](https://img.shields.io/badge/Compatibility-Claude%20%7C%20Codex%20%7C%20Gemini-green.svg)](https://buymeacoffee.com/bidya)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](./LICENSE)
-
 > **Stop building feature factories. Turn reactive feature requests into defensible, outcome-driven product bets.**
 
 ---
@@ -12,7 +8,7 @@
 
 The full, installable skill bundle (`SKILL.md`, callable workflows, eval rubrics, and automated system prompts) is packaged for instant deployment in Antigravity, Claude Code, Cursor, Codex, and Gemini.
 
-👉 **[Download the Full Skill on Buy Me a Coffee / Marketplace ($2.99)](https://buymeacoffee.com/bidya)**
+You can buy the full skill for the price of a coffee directly on the listing page.
 
 ---
 
@@ -108,7 +104,7 @@ When you unlock the full skill package, you receive:
 - `workflows/`: Complete executable command guides for `/decode-demand`, `/opportunity-map`, `/slice-deliverable`, and `/ai-product-eval`.
 - Direct installation instructions and version updates.
 
-👉 **[Get the Full Skill Pack ($2.99)](https://buymeacoffee.com/bidya)**
+You can buy the full skill for the price of a coffee directly on the listing page.
 
 ---
 
